@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 first
 second
 third
-=======
-first
->>>>>>> parent of b8f49e6 (second commit)
+testbranch에서 수정
